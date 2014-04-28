@@ -1,6 +1,6 @@
 ![web proudcast](http://i.imgur.com/2zq5WuQ.png)
 
-### Podcasts e palestras em áudio com conteúdo técnico para desenvolvedores web!
+### Podcasts e palestras em áudio com conteúdo técnico para profissionais da web!
 
 # O que é?
 
