@@ -24,7 +24,7 @@ Os episódios serão então sobre um tema específico, onde o "palestrante" irá
 
 Podcast é algo de certa forma comum, inclusive temos o excelente [ZOFE](zofe.com.br) que divulga muitas novidades da área de frontend e com certeza "puxa" a comunidade nacional para o futuro.
 
-Porém, outro material muito interessante e que foi de grande inspiração para este projeto é o material disponibilizado no site do [Addy Osmani](http://addyosmani.com/blog/javascript-101-free-course/). Um curso gravado de JavaScript gravado em áudio com faixas de 1 hora aproximadamente, sendo este o padrão almejado nesta iniciativa.
+Porém, outro material muito interessante e que foi de grande inspiração para este projeto é o material disponibilizado no site do [Addy Osmani](http://addyosmani.com/blog/javascript-101-free-course/). Um curso em áudio de JavaScript básico com faixas de 1 hora aproximadamente, sendo este o padrão almejado nesta iniciativa.
 
 # Periodicidade
 
