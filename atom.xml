@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Web Proudcast]]></title>
+  <subtitle><![CDATA[Podcasts e palestras em áudio com conteúdo técnico para profissionais da web.]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://ericdouglas.github.io/web-proudcast/"/>
+  <updated>2014-04-28T23:47:56.976Z</updated>
+  <id>http://ericdouglas.github.io/web-proudcast/</id>
+  
+  <author>
+    <name><![CDATA[Eric Douglas]]></name>
+    
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[WPC | 01 - Apresentação]]></title>
+    <link href="http://ericdouglas.github.io/web-proudcast/2014/04/28/01-apresentacao/"/>
+    <id>http://ericdouglas.github.io/web-proudcast/2014/04/28/01-apresentacao/</id>
+    <published>2014-04-28T16:29:32.000Z</published>
+    <updated>2014-04-28T23:43:21.000Z</updated>
+    <content type="html"><![CDATA[<p>Aproveite seu tempo “improdutivo” ouvindo aulas e palestras da melhor qualidade! </p>
+<p><br></p>
+<p><strong><a href="https://raw.githubusercontent.com/ericdouglas/web-proudcast/master/episodios/2014-04-28-wpc-01-apresentacao.mp3" target="_blank">Download do episódio 01 - Apresentação</a></strong></p>
+<p><br></p>
+<blockquote>
+<p><strong>ps</strong>: Para fazer o download, aperte com o botão direito e escolha salvar como…</p>
+</blockquote>
+<h1 id="Links_Citados">Links Citados</h1>
+<ul>
+<li><a href="https://github.com/ericdouglas/web-proudcast" target="_blank">Web Proudcast</a></li>
+<li><a href="https://www.facebook.com/groups/WebProudcast/" target="_blank">Web Proudcast - Grupo Facebook</a></li>
+<li><a href="http://zofe.com.br/" target="_blank">ZOFE</a></li>
+<li><a href="http://addyosmani.com/blog/javascript-101-free-course/" target="_blank">Curso de JavaScript básico - Addy Osmani</a></li>
+</ul>
+]]></content>
+    
+    
+      <category term="wpc" scheme="http://ericdouglas.github.io/web-proudcast/tags/wpc/"/>
+    
+      <category term="apresentação" scheme="http://ericdouglas.github.io/web-proudcast/tags/apresenta%C3%A7%C3%A3o/"/>
+    
+  </entry>
+  
+</feed>
