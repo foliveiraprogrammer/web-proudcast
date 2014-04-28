@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Web Proudcast]]></title>
   <subtitle><![CDATA[Podcasts e palestras em áudio com conteúdo técnico para profissionais da web.]]></subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="http://ericdouglas.github.io/web-proudcast/atom.xml" rel="self"/>
   <link href="http://ericdouglas.github.io/web-proudcast/"/>
-  <updated>2014-04-28T23:47:56.976Z</updated>
+  <updated>2014-04-28T23:49:43.464Z</updated>
   <id>http://ericdouglas.github.io/web-proudcast/</id>
   
   <author>
