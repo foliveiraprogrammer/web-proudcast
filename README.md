@@ -33,3 +33,5 @@ Os episódios sairão de acordo com a disponibilidade dos participantes de grava
 # Como Palestrar?
 
 Muito simples! Abra uma issue e diga sobre qual tema você gostaria de falar! Iremos entrar em contato o mais rápido possível para conseguir divulgar mais um episódio do **wpc**!!!
+
+Caso você não tenha uma conta no Github, pode também mostrar seu interesse em palestrar no [grupo do facebook](https://www.facebook.com/groups/WebProudcast/) do **Web Proudcast**!
