@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Podcasts e palestras em áudio com conteúdo técnico para profissionais da web.]]></subtitle>
   <link href="/web-proudcast/atom.xml" rel="self"/>
   <link href="http://ericdouglas.github.io/web-proudcast/"/>
-  <updated>2014-04-29T00:28:26.021Z</updated>
+  <updated>2014-04-29T09:44:02.431Z</updated>
   <id>http://ericdouglas.github.io/web-proudcast/</id>
   
   <author>
@@ -19,13 +19,14 @@
     <link href="http://ericdouglas.github.io/web-proudcast/2014/04/28/01-apresentacao/"/>
     <id>http://ericdouglas.github.io/web-proudcast/2014/04/28/01-apresentacao/</id>
     <published>2014-04-28T16:29:32.000Z</published>
-    <updated>2014-04-29T00:20:30.000Z</updated>
-    <content type="html"><![CDATA[<p>Aproveite seu tempo “improdutivo” ouvindo aulas e palestras da melhor qualidade! </p>
-<p><br></p>
-<p><a href="https://raw.githubusercontent.com/ericdouglas/web-proudcast/master/episodios/2014-04-28-wpc-01-apresentacao.mp3" target="_blank" download="wpc-01-apresentacao.mp3">Download do episódio 01 - Apresentação</a></p>
-<p><br></p>
+    <updated>2014-04-29T09:35:02.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/cKChLYf.png" alt="web proudcast 01 - apresentação"></p>
+<p><strong>Aproveite seu tempo “improdutivo” ouvindo aulas e palestras da melhor qualidade!</strong></p>
+<p>Neste primeiro episódio irei lhe explicar para quê e por quê o <strong>Web Proudcast</strong> nasceu!</p>
+<div class="box-download"><br>    <p><br>        <a href="https://raw.githubusercontent.com/ericdouglas/web-proudcast/master/episodios/2014-04-28-wpc-01-apresentacao.mp3" target="_blank" download="wpc-01-apresentacao.mp3">Download do episódio 01</a><br><br>    </p><br></div>
+
 <blockquote>
-<p><strong>ps</strong>: Para fazer o download, aperte com o botão direito e escolha salvar como…</p>
+<p><strong>ps</strong>: Para fazer o download, caso você esteja usando Firefox, aperte com o botão direito e escolha <code>save audio as...</code> na próxima página que você será direcionado.</p>
 </blockquote>
 <h1 id="Links_Citados">Links Citados</h1>
 <ul>
@@ -34,7 +35,7 @@
 <li><a href="http://zofe.com.br/" target="_blank">ZOFE</a></li>
 <li><a href="http://addyosmani.com/blog/javascript-101-free-course/" target="_blank">Curso de JavaScript básico - Addy Osmani</a></li>
 </ul>
-<h2 id="Errata">Errata</h2>
+<p><strong>Errata</strong></p>
 <p>Proud é <strong>orgulhoso</strong>… orgulho é <strong>pride</strong> =D</p>
 ]]></content>
     
