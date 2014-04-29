@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Web Proudcast]]></title>
   <subtitle><![CDATA[Podcasts e palestras em áudio com conteúdo técnico para profissionais da web.]]></subtitle>
-  <link href="http://ericdouglas.github.io/web-proudcast/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   <link href="http://ericdouglas.github.io/web-proudcast/"/>
-  <updated>2014-04-28T23:49:43.464Z</updated>
+  <updated>2014-04-29T00:24:02.340Z</updated>
   <id>http://ericdouglas.github.io/web-proudcast/</id>
   
   <author>
@@ -19,10 +19,10 @@
     <link href="http://ericdouglas.github.io/web-proudcast/2014/04/28/01-apresentacao/"/>
     <id>http://ericdouglas.github.io/web-proudcast/2014/04/28/01-apresentacao/</id>
     <published>2014-04-28T16:29:32.000Z</published>
-    <updated>2014-04-28T23:43:21.000Z</updated>
+    <updated>2014-04-29T00:20:30.000Z</updated>
     <content type="html"><![CDATA[<p>Aproveite seu tempo “improdutivo” ouvindo aulas e palestras da melhor qualidade! </p>
 <p><br></p>
-<p><strong><a href="https://raw.githubusercontent.com/ericdouglas/web-proudcast/master/episodios/2014-04-28-wpc-01-apresentacao.mp3" target="_blank">Download do episódio 01 - Apresentação</a></strong></p>
+<p><a href="https://raw.githubusercontent.com/ericdouglas/web-proudcast/master/episodios/2014-04-28-wpc-01-apresentacao.mp3" target="_blank" download="wpc-01-apresentacao.mp3">Download do episódio 01 - Apresentação</a></p>
 <p><br></p>
 <blockquote>
 <p><strong>ps</strong>: Para fazer o download, aperte com o botão direito e escolha salvar como…</p>
@@ -34,6 +34,8 @@
 <li><a href="http://zofe.com.br/" target="_blank">ZOFE</a></li>
 <li><a href="http://addyosmani.com/blog/javascript-101-free-course/" target="_blank">Curso de JavaScript básico - Addy Osmani</a></li>
 </ul>
+<h2 id="Errata">Errata</h2>
+<p>Proud é <strong>orgulhoso</strong>… orgulho é <strong>pride</strong> =D</p>
 ]]></content>
     
     
