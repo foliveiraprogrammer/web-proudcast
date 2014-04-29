@@ -2,6 +2,8 @@
 
 ### Podcasts e palestras em áudio com conteúdo técnico para profissionais da web!
 
+# Acesse a página do Web Proudcast [aqui](http://ericdouglas.github.io/web-proudcast/)!
+
 # O que é?
 
 O **Web Proudcast** nasceu da ideia de disponibilizar conteúdo de qualidade para que possamos consumí-lo em horários "improdutivos".
