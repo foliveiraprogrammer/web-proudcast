@@ -516,6 +516,34 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 /* ==========================================================================
+   -.box-download // botão de compra
+   ========================================================================== */
+
+.box-download {
+  padding: 1em;
+  border-bottom: 5px solid #fff;
+  border-radius: 6px;
+  text-align: center;
+  color: #000;
+  font-size: 1.3em;
+}
+
+.box-download a {
+  text-decoration: none;
+  background: #e74c3c;
+  color: #fff;
+  border-radius: 10px;
+  padding: 1em;
+  font-size: 1.1em;
+  transition: 0.13s;
+}
+
+.box-download a:hover {
+  background: #c0392b;
+  color: #fff;
+}
+
+/* ==========================================================================
    5. Single Post - When you click on an individual post
    ========================================================================== */
 
@@ -1013,6 +1041,16 @@ pre .chunk {
         font-size: 2.8rem;
     }
 
+    .box-download {
+      padding: 0em;
+      font-size: 1.3em;
+    }
+
+    .box-download a {
+      padding: 0.8em;
+      font-size: 1em;
+    }
+
 }
 
 /* ==========================================================================
@@ -1113,6 +1151,16 @@ pre .chunk {
     .site-footer {
         margin-top: 6rem;
         font-size: 1.1rem;
+    }
+
+    .box-download {
+      padding: 0em;
+      font-size: 1.1em;
+    }
+
+    .box-download a {
+      padding: 0.8em;
+      font-size: 0.9em;
     }
 
 }
