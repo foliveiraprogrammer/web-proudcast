@@ -516,8 +516,13 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 /* ==========================================================================
-   -.box-download // botão de compra
+   -.box-download // botão de download
    ========================================================================== */
+
+audio {
+    width: 500px;
+    height: 50px;
+}
 
 .box-download {
   padding: 1em;
@@ -541,6 +546,10 @@ margin on the iframe, cause it breaks stuff. */
 .box-download a:hover {
   background: #c0392b;
   color: #fff;
+}
+
+.box-download p {
+    margin: 0.3em;
 }
 
 /* ==========================================================================
@@ -1160,7 +1169,7 @@ pre .chunk {
 
     .box-download a {
       padding: 0.8em;
-      font-size: 0.9em;
+      font-size: 0.8em;
     }
 
 }
