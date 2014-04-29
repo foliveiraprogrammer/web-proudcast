@@ -2,6 +2,8 @@
 
 ### Podcasts e palestras em áudio com conteúdo técnico para profissionais da web!
 
+# Acesse a página do Web Proudcast [aqui](http://ericdouglas.github.io/web-proudcast/)!
+
 # O que é?
 
 O **Web Proudcast** nasceu da ideia de disponibilizar conteúdo de qualidade para que possamos consumí-lo em horários "improdutivos".
@@ -10,7 +12,7 @@ O **Web Proudcast** nasceu da ideia de disponibilizar conteúdo de qualidade par
 
 Esses podcasts serão direcionados a todos os desenvolvedores e profissionais ligados a web.
 
-Iremos abordar assuntos do *frontend*, *bakcend*, *devops*, *web design* e tudo mais que estiver relacionado a web!
+Iremos abordar assuntos do *frontend*, *backend*, *devops*, *web design* e tudo mais que estiver relacionado a web!
 
 # Como vai Funcionar?
 
