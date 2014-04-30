@@ -1050,6 +1050,11 @@ pre .chunk {
         font-size: 2.8rem;
     }
 
+    audio {
+    	width: 90%;
+    	height: 50px;
+		}
+
     .box-download {
       padding: 0em;
       font-size: 1.3em;
@@ -1161,6 +1166,11 @@ pre .chunk {
         margin-top: 6rem;
         font-size: 1.1rem;
     }
+
+    audio {
+    	width: 90%;
+    	height: 50px;
+		}
 
     .box-download {
       padding: 0em;
